@@ -9,20 +9,10 @@
 /* TARGETING ELEMENTS / TAGS */
 
 
-h2 {
-    font-size: 24px;
-}
-
-#content-header {
-    font-sieze: 18px;
-    color: red;
-}
-
 span{
-    display: block;
     color: blue;
 }
 
-.deck {
+span{
     color: red;
 }
