@@ -8,22 +8,21 @@
 
 /* TARGETING ELEMENTS / TAGS */
 
-p { font-size: 12px;
+
+h2 {
+    font-size: 24px;
+}
+
+#content-header {
+    font-sieze: 18px;
     color: red;
 }
 
-a {text-decoration: underline
-color: blue;}
-
-span {
-    text-transform: uppercase;
+span{
+    display: block;
+    color: blue;
 }
 
-h1 {
-    font-size: 32px;
-}
-
-div {
-    width:100%;
-    background-color: grey;
+.deck {
+    color: red;
 }
