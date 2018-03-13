@@ -13,6 +13,12 @@ a:hover{
     color: red;
 }
 
-#main-content:hover{
-    color:red;
+a:active{
+    color:orange;
+
+}
+
+a:visited{
+    color:purple;
+
 }
