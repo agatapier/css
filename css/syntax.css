@@ -9,19 +9,10 @@
 /* TARGETING ELEMENTS / TAGS */
 
 
-body {
-    color: red;
-    }
-
-div {
-    color: blue;
-}
-
 p {
-    color: green;
+    color: red !important;
 }
 
-a {
-    color:yellow;
-    text-decoration: underline;
+#main-content p {
+    color: green;
 }
