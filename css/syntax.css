@@ -9,10 +9,8 @@
 /* TARGETING ELEMENTS / TAGS */
 
 
-article.featured-content {
-    background: red;
-}
-
-div.featured-content {
-    background: blue;
+* {
+    margin:0;
+    padding:0;
+    color:black;
 }
