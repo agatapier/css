@@ -9,13 +9,10 @@
 /* TARGETING ELEMENTS / TAGS */
 
 
-
-
-h1 {
-    font-weight: normal;
+body {
+    text-transform: uppercase;
 }
 
-p {
-    font-weight: 900;
-    font-family: Arial;
+body > p {
+    text-transform: none;
 }
