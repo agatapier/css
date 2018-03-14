@@ -9,6 +9,8 @@
 /* TARGETING ELEMENTS / TAGS */
 
 
-article h2 , article p {
-    font-famil: Arial, Georgia, serif;
+
+
+a {
+    text-decoration: underline ;
 }
